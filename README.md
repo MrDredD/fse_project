@@ -13,5 +13,14 @@
 
 
 ## Dependencies
-This project is depend on OpenCV framework and sample c++ app to find a face in image
+This project is depend on OpenCV framework and sample c++ app to find a face in image <br>
 All dependencies are installed via installation section above
+
+
+## Development
+To modify code you must be familiar with OpenCV framework. <br>
+Good [resource](https://learnopencv.com/) to get started. <br>
+Or you can use the official [docs](https://docs.opencv.org/4.x/) web page
+
+### Sample advancments
+You can add a function `void display(Mat frame)` to add a visualisation functionality to this project
